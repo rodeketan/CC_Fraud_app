@@ -1,19 +1,12 @@
 # Project Overview
 
-Identified fraudulent transactions using Machine Learning. Following models were applied and the best model (LightGBM) was deployed using Streamlit Web App
+Built and evaluated multiple models for the detection of fraudulent transactions in a highly imbalanced dataset.
 * Logistic Regression
 * Random Forest
 * XGBoost
 * CatBoost
 * LightGBM
 
-
-# Evaluation Metrics
-
-* mAP  and Recall on the positive class were the main metrics on which the model was optimized.
-
 # Web App
 
 * https://ccfraudapp-jugmvnkqeqvjmwa4dow7p5.streamlit.app/
-
-
