@@ -1,6 +1,6 @@
 # Project Overview
 
-Built and evaluated multiple models for the detection of fraudulent transactions in a highly imbalanced dataset.
+Built and evaluated multiple models for the detection of fraudulent transactions in a highly imbalanced data set.
 * Logistic Regression
 * Random Forest
 * XGBoost
